@@ -1,0 +1,13 @@
+setup.py
+cprint/__init__.py
+cprint/cprint.py
+cprint/tests/__init__.py
+cprint/tests/test.py
+py-getch/__init__.py
+py-getch/getch.py
+py-getch/pause.py
+py_getch_and_cprint.egg-info/PKG-INFO
+py_getch_and_cprint.egg-info/SOURCES.txt
+py_getch_and_cprint.egg-info/dependency_links.txt
+py_getch_and_cprint.egg-info/not-zip-safe
+py_getch_and_cprint.egg-info/top_level.txt

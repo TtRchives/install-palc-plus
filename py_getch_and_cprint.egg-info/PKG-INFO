@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: py-getch-and-cprint
+Version: 1.0.1
+Summary: Portable getch() for Python. And -- printing in colour in Python
+Home-page: https://github.com/thetechrobo/install-palc-plus
+Author: Joe Esposito and Erwan Vasseure
+Author-email: joe@joeyespo.com
+License: MIT
+Description: UNKNOWN
+Platform: any
